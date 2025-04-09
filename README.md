@@ -1,2 +1,2 @@
-# someBashScripts
-一些常用的bash脚本
+# someScripts
+一些开发中会用到的脚本
